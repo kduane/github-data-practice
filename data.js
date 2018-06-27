@@ -629,6 +629,6 @@ let data = [
     owner: 'LaunchAcademy',
     owner_type: 'Organization'
   }
-]
+];
 
-module.exports = data
+module.exports = data;
